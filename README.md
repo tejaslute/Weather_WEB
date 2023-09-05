@@ -3,5 +3,4 @@
 2. Built using HTML, CSS, and JavaScript.
 3. Retrieve weather data from a third-party API and display it in an easy-to-read format.
 4. Use of geolocation API and sessionStorage .
-5. Here you can live demo : [https://currentweathert.netlify.app/](https://weatherwebonline.netlify.app/)https://weatherwebonline.netlify.app/
-
+5. Here you can live demo : https://weatherwebonline.netlify.app/
